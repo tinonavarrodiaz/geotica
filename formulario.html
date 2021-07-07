@@ -1,0 +1,27 @@
+<!DOCTYPE html><html lang="es"><head><title>Geotica - Ingenería Integral</title><meta charset="utf-8"><meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@geotica"><meta property="og:title" content="Inicio"><meta property="og:description" content="Geotica - Ingenería Integral"><meta property="og:image" content="https://geotica.com.mx/wp-content/uploads/2020/12/EquipoRec_img002.jpg"><link rel="stylesheet" href="assets/css/hamburgers.min.css?t=1625685847193"><link rel="stylesheet" href="css/styles-mobile.css?t=1625685847193" media="(orientation: portrait)"><link rel="shortcut icon" href="img/favicon.png"><style>body{
+  /*background: url("../img/contacto-m.png") top center / cover no-repeat;*/
+  font-family: 'Gotham-Medium', sans-serif;
+}
+.main-header, .main-nav, .main-menu{
+  display: none;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 1em;
+}
+.formulario {
+  padding-top: 1em;
+}
+.btn-sec{
+  margin-top: 1em;
+  background: #858a8e !important;
+}</style></head><body class="section contacto"><nav class="main-nav" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation" id="main-nav"><ul class="main-menu sweepDown" id="main-menu"><li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="#" itemprop="name">Nosotros<ul class="main-menu__submenu"><li data-menuanchor="nosotros"><a class="submenu-link" href="#nosotros">Nuestro Grupo</a></li><li data-menuanchor="valores"><a class="submenu-link" href="#valores">Nuestro Propósito</a></li></ul></a></li><li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="#" itemprop="name">Perfil Profesional<ul class="main-menu__submenu"><li data-menuanchor="perfil"><a class="submenu-link" href="#perfil">Ámbitos de Competencia</a></li></ul></a></li><li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="#" itemprop="name">Presencia Nacional<ul class="main-menu__submenu"><li data-menuanchor="presencia"><a class="submenu-link" href="#presencia">Nuestra Trayectoria</a></li></ul></a></li><li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="#" itemprop="name">Equipo y Recursos<ul class="main-menu__submenu"><li data-menuanchor="software"><a class="submenu-link" href="#software">software</a></li><li data-menuanchor="ingenieria"><a class="submenu-link" href="#ingenieria">Equipo de Ingenieria</a></li><li data-menuanchor="comunicacion"><a class="submenu-link" href="#comunicacion">Tecnología y Comunicación</a></li><li data-menuanchor="vehicular"><a class="submenu-link" href="#vehicular">Parque Vehicular</a></li></ul></a></li><li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="#" itemprop="name">Responsabilidad y Compromiso Socioambiental<ul class="main-menu__submenu"><li data-menuanchor="otros"><a class="submenu-link" href="#otros">Contexto</a></li><li data-menuanchor="agro"><a class="submenu-link" href="#agro">Geôtica Agroindustria</a></li><li data-menuanchor="responsabilidad"><a class="submenu-link" href="#responsabilidad">GEÔTICA INFRAESTRUCTURA EDUCATIVA</a></li></ul></a></li></ul></nav><header class="main-header" id="mainHeader"><a href="#inicio" data-menuanchor="inicio" id="link-logo"><img src="img/logo1.png" alt="Logotipo Geotica - Ingenería Integral"></a><div class="header_right"><button class="hamburger hamburger--collapse" type="button">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button><a class="contact-link" href="#contacto" data-menuanchor="contacto">Contacto </a></div></header><main class="formulario"><h2 class="section-title">CONTACTO</h2><form class="contacto__form" action="php/enviar-mail1.php" method="POST"><input type="hidden" value="mobile" name="dispositivo"><input type="text" name="nombre" placeholder="Nombre:" required pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$"><input type="email" name="email" placeholder="Email:" required pattern="^[a-z0-9]+(\.[_a-z0-9]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,15})"><textarea name="mensaje" placeholder="Mensaje:" required></textarea><button class="btn btn-primary" type="submit">Enviar</button><button class="btn btn-sec" id="btnReg" type="reset">Regresar</button></form></main><script>let btnReg =  document.getElementById('btnReg')
+btnReg.addEventListener('click', (e)=>{
+  e.preventDefault();
+  e.target.blur()
+  location.href="./sitio.html#contacto"
+})
+</script><script src="js/scripts-min.js?t=1625685847193"></script></body></html>

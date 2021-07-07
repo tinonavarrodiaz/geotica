@@ -1,0 +1,279 @@
+{
+  "Proyectos": [
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Control Exterior de las Obras del Programa Nacional de Conservación de Carreteras y el Seguimiento a las Supervisiones Externas de la Zona 5 Conformada por los Estados de Aguascalientes, Colima, Jalisco y Nayarit",
+      "EMPRESA": "Infraestructura Peninsular SA de CV",
+      "UBICACION": "Aguascalientes",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT (CF)"
+    },
+    {
+      "ANO": "2017",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Estudios de PCN (Número de Clasificación de Pavimento) e Indice de Perfil en el Aeropuerto de Tijuana",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Baja California",
+      "CLIENTE": "Aeropuerto de Tijuana, S.A. de C.V."
+    },
+    {
+      "ANO": "2017",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Estudios de PCN (Número de Clasificación de Pavimento) e Indice de Perfil en el Aeropuerto Internacional San Jose del Cabo",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Baja California Sur",
+      "CLIENTE": "Aeropuerto de San Jose del Cabo, S.A. de C.V."
+    },
+    {
+      "ANO": "2020",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Servicios de Supervisión Técnica y Verificación de Control de Calidad de los trabajos de construcción de plataforma y vía del Tren Maya correspondiente al tramo Escárcega-Calkiní, en el Estado de Campeche.",
+      "EMPRESA": "Infraestructura Peninsular SA de CV\r\nA en P\r\nGrupo Cal y Mayor",
+      "UBICACION": "Campeche",
+      "CLIENTE": "Fondo Nacional de Fomento al Turismo, FONATUR"
+    },
+    {
+      "ANO": "2018",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Elaboración de estudios y proyectos de dictamen técnico para mejoramiento de entronques, adecuación o mejoramiento de retornos y/o rectificación de alineamiento de curvas en los Estados de Chiapas y Tabasco.",
+      "EMPRESA": "Infraestructura Peninsular SA de CV",
+      "UBICACION": "Chiapas",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2015",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Asistencia técnica para la \"Elaboración de Estudio y Proyecto para el mejoramiento de entronques en los Estados De Chihuahua, Sonora y Durango.\"",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Chihuahua",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT (CF)"
+    },
+    {
+      "ANO": "2019",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Apoyo externo para la realización de revisiones técnicas diversas, medición en pavimentos para la verificación del cumplimiento de estándares de desempeño y revisión de proyectos ejecutivos realizados en la APP Saltillo-Monterrey-La Gloria y Monterrey-Nuevo Laredo, relativos a los segmentos 1 al 8 de dichos tramos carreteros, en el Estado de Coahuila, México",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Coahuila",
+      "CLIENTE": "Jyreh Consulting Engineers"
+    },
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Control Exterior de las Obras del Programa Nacional de Conservación de Carreteras y el Seguimiento a las Supervisiones Externas de la Zona 5 Conformada por los Estados de Aguascalientes, Colima, Jalisco y Nayarit",
+      "EMPRESA": "Infraestructura Peninsular SA de CV",
+      "UBICACION": "Colima",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT (CF)"
+    },
+    {
+      "ANO": "2018",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Elaboración de Estudios y Proyectos de Dictámenes Técnicos de los Tramos Carreteros en el Estado de Durango.",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Durango",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2010",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Dirección, control y seguimiento de las obligaciones técnicas y administrativas adquiridas por \"la contratante\" ante el Fideicomiso Autopistas y Puentes del Golfo Centro, referentes a la Supervisión de las obras para la primera etapa de construcción de puentes, pasos a desnivel, terracerías, obras de drenaje, pavimentos y obras complementarias, correspondientes a la Ampliación de dos a cuatro carriles del km. 12+160 al km 14+000 y del km 18+000 al km 22+700 de la Autopista México - Pachuca, en el Estado de México.",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Estado de México",
+      "CLIENTE": "Fideicomiso de Autopistas y Puentes del Golfo Centro, FAPGC (CF)"
+    },
+
+    {
+      "ANO": "2017",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Asistencia Técnica para la \"Dirección de Ejecución de Obras (DEO) del Programa de Conservación de Carreteras en el Estado de Guanajuato\"",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Guanajuato",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT (CF)"
+    },
+    {
+      "ANO": "2011",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Redacción Del Proyecto Ejecutivo Para La Ampliación De Plataforma Comercial, Red De Hidrantes Para Suministro En Plataforma Y Sustitución De Pavimentos Existentes En Plataforma De La T-2  En El Aeropuerto De Guadalajara, S.A. De C.V.",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Grupo Aeroportuario del Pacífico, S.A.B. de C.V. (CF)"
+    },
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Supervisión, Seguimiento y Verficación de Calidad de las obras de Conservación de Carreteras en el Estado de Jalisco",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Dirección General de Conservación de Carreteras",
+      "COLOR" : "#01579b"
+    },
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Coordinación e integración Técnica para el Proyecto de Obra y Contratación del Paquete Carretero CPCC, Contrato Plurianual de Conservación de Carreteras. Jalisco Norte",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Proyecto de Señalización y Dispositivos de Seguridad en la Red Federal Libre de Peaje en el Estado de Jalisco Paquetes 1, 2 y 3",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2016",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Proyecto para la Conexión Vial Intermunicipal, en los Municipios de Juanacatlán, Zapotlanejo, Tonalá, Ixtlahuacán de los Membrillos, Tlajomulco de Zúñiga y el Salto, Jalisco",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Secretaría de Infraestructura y Obra Pública del Gobierno del Estado de Jalisco, SIOP"
+    },
+    {
+      "ANO": "2016",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Sistema de Transporte de Altas Especificaciones para el Periférico (PERIBUS), primera etapa, Zona Metropolitana de Guadalajara, Jalisco. (Proyecto Integral).",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Secretaría de Infraestructura y Obra Pública del Gobierno del Estado de Jalisco, SIOP"
+    },
+    {
+      "ANO": "2018",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Realización del Proyecto Geométrico Ejecutivo de 7.8 KMS de vialidades internas en el complejo turístico Chalacatepec, en el Estado de Jalisco.",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Chalamar S. de R.L. de C.V."
+    },
+    {
+      "ANO": "2019",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Analisis técnico para la elaboración de los estudios de aseguramiento de la conectividad del Aeropuerto de Guadalajara (PARTE: VIALIDAD)",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Grupo Aeroportuario del Pacífico, S.A.B. de C.V."
+    },
+    {
+      "ANO": "2020",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Servicios de supervisión de la etapa de reconstrucción de obra pública de los trabajos del contrato número SIOP-E-ICAR-OB-LP-045-2019, relativo a la obra denominada Frente 2 \"Carretera Estatal 544, tramo Mascota- Las Palmas- Puerto Vallarta, Jalisco\", con longitud de 90 kilómetros",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Consorcio Carretero Jalisciense S.A. DE C.V.",
+      "COLOR" : "#01579b"
+    },
+    {
+      "ANO": "2020",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Trabajos de Control de Calidad necesarios para la realizacion de la obra: Corredor Integral de Movilidad Urbana Sustentable para el Area Metropolitana de Guadalajara mediante la integracion urbana y paisajistica, ciclovia, andadores peatonales, cruceros seguros, reforestacion y carriles laterales en Periferico Manuel Gomez Morin, tramo 3, en el Estado de Jalisco.",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Jalisco",
+      "CLIENTE": "Consorcio Jalisco"
+    },
+    {
+      "ANO": "2018",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Estudios de PCN e Indice de Perfil en el Aeropuerto de Morelia",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Michoacan",
+      "CLIENTE": "Aeropuerto de Morelia, S.A. de C.V."
+    },
+    {
+      "ANO": "2019",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Exploraciones y mediciones (auscultación) para identificar y evaluar las causas de los daños y deterioros presentados en el tramo carretero consecionado tipo A2 Jantetelco-El Higuerón, al sur del Estado de Morelos",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Morelos",
+      "CLIENTE": "G.I. Moen Consultores"
+    },
+    {
+      "ANO": "2013",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Control Exterior de las Obras del programa Nacional de Conservación de Carreteras y el Seguimiento de las Supervisiones de la Zona 6 conformado por los Estados de Jalisco y Nayarit (CE)",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Nayarit",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2019",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Apoyo externo para la realización de revisiones técnicas diversas, medición en pavimentos para la verificación del cumplimiento de estándares de desempeño y revisión de proyectos ejecutivos realizados en la APP Saltillo-Monterrey-La Gloria y Monterrey-Nuevo Laredo, relativos a los segmentos 1 al 8 de dichos tramos carreteros, en el Estado de Nuevo León, México",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Nuevo León",
+      "CLIENTE": "Jyreh Consulting Engineers"
+    },
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Coordinación e integración Técnica para el Proyecto de Obra y Contratación del Paquete Carretero CPCC, Contrato Plurianual de Conservación de Carreteras. Oaxaca / Puebla",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Oaxaca",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Coordinación e integración Técnica para el Proyecto de Obra y Contratación del Paquete Carretero CPCC Oaxaca / Puebla",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Puebla",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2018",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Verificación de la calidad que lleva a cabo la Dirección General de Servicios Técnicos a través de su Unidad General, a las obras de construcción, modernización, reconstrucción y conservación de la Red Carretera Federal, que ejecuta la Secretaría de Comunicaciones y Transportes a través del Centro SCT Quintana Roo (Zona 1)",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Quintana Roo",
+      "CLIENTE": "Dirección General de Servicios Técnicos, SCT"
+    },
+    {
+      "ANO": "2013",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Supervisión, Seguimiento y Verificación de Calidad de las Obras de Conservación de Carreteras en el Estado de San Luis Potosi (SSV)",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "San Luis Potosi",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    },
+    {
+      "ANO": "2011",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Redacción Del Proyecto Ejecutivo De Nivelación Y Repavimentación De Pista 09-27, En El Aeropuerto De Los Mochis, S.A. De C.V.",
+      "EMPRESA": "Planificación e Infraestructura Terrestre, S.A. de C.V.",
+      "UBICACION": "Sinaloa",
+      "CLIENTE": "Grupo Aeroportuario del Pacífico, S.A.B. de C.V. (CF)"
+    },
+    {
+      "ANO": "2015",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Asistencia técnica para la \"Elaboración de Estudio y Proyecto para el mejoramiento de entronques en los Estados De Chihuahua, Sonora y Durango.\"",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Sonora",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT (CF)"
+    },
+    {
+      "ANO": "2019",
+      "CATEGORIA": "Categoría: Gerenciamiento de Obras / Dirección y Supervisión / Verificacion de Calidad / Seguimiento, Coordinación y Control",
+      "TRABAJO": "Verificación de la calidad que lleva a cabo la Dirección General de Servicios Técnicos a través de su Unidad General, a las obras de construcción, modernización, reconstrucción y conservación de la Red Carretera Federal, que ejecuta la Secretaría de Comunicaciones y Transportes a través del Centro SCT Tabasco (Zona I)",
+      "EMPRESA": "Infraestructura Peninsular SA de CV",
+      "UBICACION": "Tabasco",
+      "CLIENTE": "Dirección General de Servicios Técnicos, SCT"
+    },
+    {
+      "ANO": "2018",
+      "CATEGORIA": "Categoría: Ingeniería de Detalle / Proyectos Conceptuales / Proyectos Ejecutivos / Proyectos Integrales",
+      "TRABAJO": "Asistencia Técnica para la \"Elaboración de estudios y proyectos de señalamiento para mejoramiento de entronques, adecuación o mejoramiento de retornos en el Estado de Yucatán.\"",
+      "EMPRESA": "Infraestructura Peninsular SA de CV",
+      "UBICACION": "Yucatan",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT (CF)"
+    },
+    {
+      "ANO": "2012",
+      "CATEGORIA": "Categoría: Ingeniería Básica / Análisis Conceptuales / Estudios Preliminares / Factibilidades / Sensibilidades / Dictámenes Técnicos",
+      "TRABAJO": "Supervisión de los trabajos del contrato plurianual de conservación de carreteras (CPCC) del paquete carretero Zacatecas Norte",
+      "EMPRESA": "Meridiano RL Consultorías y Estrategias, S.A. de C.V.",
+      "UBICACION": "Zacatecas",
+      "CLIENTE": "Dirección General de Conservación de Carreteras, SCT"
+    }
+  ]
+}
